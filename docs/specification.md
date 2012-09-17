@@ -58,6 +58,8 @@ Most people seem to say, 10 per print + 5 per hour, this is currency agnostic an
 * Upload for object: object should have a short description from user
 
 * Once object is uploaded, Location system required
+
+* Users educated on pricing (shipping estimates) Printing costs generaly "x per print, Y per hour" 
 	
 * Location system finds nearest machine (maybe prioritize by least active machine
 	Can be sorted by users with dropdown menu, (highest rated user, closest, least active, blah )
@@ -78,16 +80,16 @@ Most people seem to say, 10 per print + 5 per hour, this is currency agnostic an
 	
 * Machine specs.
 	* Machine type, (custom, production machine, rostock, i3, i2, mendelmax, blah)
-	* Build size
+	* Build size (200x200x75 mm, etc)
 	* Materials available to print (pla, abs, [can be sorted by colours])
-	* nozel diametre. 0.5, 0.35
+	* nozel diametre. 0.75,0.5, 0.35
 
 * Operators receive objects once a user selects them, and get a download link of file in a queue system. They do whatever needs to be done to build the object, if they have issues, they can contact user through internal messaging system to fix problems. Or to say object has been accepted and is in queue to be printed. once object is printed, and shipped, operators should send tracking number to user
 
-* Queue system should show names of objects in the queue, but only allow in a 'first come first serve' download order. (to make things fair)
+* Queue system should show names of objects in the queue, but only allow in a 'first come first serve' download order. (to make things fair to users, maybe?)
 
 
-* Prices can be 'recommended' to machines..machines then make up quote to user. Machines don't print until user has agreed/paid.
+* Prices equations recommended to machines...machines then make up quote to user. Machines don't print until user has agreed/paid. --This may be a difficult part, how do we get our cut? machines won't know prices (without expierence) how much a part costs until printed...perhaps recommended prices should be displayed to user, then once printed machines send paypal request)
 
 
 
