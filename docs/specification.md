@@ -5,7 +5,7 @@ users - people who want something printed
 machines - people who have 3d printers.
 Operators - people who run the 3d printers
 
----What We need--
+---What We need---
 Registration for users and machines
 	users --- people who want something printed
 	
@@ -22,11 +22,9 @@ Registration for users and machines
 	
 	Active machines will have backlogs of parts to print. the location system should note this, and recommend machines within same currency who are less active. This'll help make more machines active, cut down on production time for the website as a whole.
 
-	A Database of general shipping costs from around places.
 
-	irc channel on freenode
 	
-	FAQ
+
 	
 	
 	
@@ -34,18 +32,19 @@ Registration for users and machines
 
 
 
---Method of making money--
+---Method of making money---
 Percentages - With a percentage, the website might just turn into a place for people to easily find each other then abandon. However this helps keep less active machines around.
 
 monthly fees - setting a monthly fee for machines...this'll keep members around (cause they paid) But has a problem of inactivity for some areas. However, active members will enjoy a lowish fee with many users and high profits. <--- active machines would be inclined to own several printers.
 
 People generally sell their plastic parts on an equation of material cost + print time some 'sets' go for 100$ each.
 
-This equation is hard because plastic is sold ad wildly different prices, and depending in 'infill' of a 3d printed object any one part can take from a half hour to hours in printing.
+This equation is hard because plastic is sold at wildly different prices ranging form 30-75 euros, and depending in 'infill' of a 3d printed object any one part can take from a half hour to hours in printing.
 Most people seem to say, 10 per print + 5 per hour, this is currency agnostic and also relatively cheap. Others charge more if they only own one machine, and much more for parts that have a high potential to fail.
 
 
-USERS - required things from them
+
+---USERS---
 
 	Contact, email shipping address.
 	
@@ -70,15 +69,16 @@ USERS - required things from them
 	Location system finds nearest machine (maybe prioritize by least active machine
 		Can be sorted by users with dropdown menu, (highest rated user, closest, least active, blah )
 	
-	Upload system can leave uploaded objects there, this way if a user wants to be able to come back and 'order' a part they just have to select part, nearest machine,
-	and then finished. (much like other systems like ponoko) 
+	Upload system can leave uploaded objects there, this way if a user wants to be able to come back and 'order' a part they just have to select part, nearest machine,and then finished. (much like other systems like ponoko) 
 
---Or users never interact with machines. This may take complexity out of the system, where the machine operator chooses everything (except printed material) But is harder for estimating prices and less open..
+----Or users never interact with machines. This may take complexity out of the system, where the machine operator chooses everything (except printed material) But is harder for estimating prices and less open..
 
 
-Machines
+---MACHINES---
 Contact infos, email, address, real names, username, blah blah.
 
+	Profiles (even if just basic)
+	
 	Location
 	
 	Machine specs.
@@ -93,19 +93,44 @@ Contact infos, email, address, real names, username, blah blah.
 
 	Queue system should show names of objects in the queue, but only allow in a 'first come first serve' download order. (to make things fair)
 
-------EXTRA-----
+
+	Prices can be 'recommended' to machines..machines then make up quote to user.
+		Machines don't print until user has agreed/paid.
+
+
+
+---EXPANSION---
+Adding other types of cnc machines, (plotters, mills, lathes)
+	there is a huge market of cnc machines out there that have idle time
+	should not have to stick to just 3d printing.
+	
+
+
+
+---EXTRA---
 
 STOCK PILE
 Some things are very common to be printed out, these are mainly sets for printer parts.
 	 A user selects what machine they want, i3, rostock, prusa i2, mendel max, blah blah, and can order right away, no hassle.
 
-
 These can be stock piled for users to simply click on and order (this can be done be us(me)) But also by machines.
 
-3d DESIGN
+--3d DESIGN
 
-Some people are worthless at designing things, this can be a place for people to design and print for others. This increases costs drastically.
+Some people are worthless at designing things, this can be a place for people to design and print for others. This increases costs drastically. and maybe site activity.
 
-BLOG
+--BLOG
 
-Typical blog for keeping users updated...writing tips and things
+Typical blog for keeping users updated...writing tips and and other stuff. (websites like Ponoko are fairly active at this and . So this doesn't have to be a backbreaker to compete.
+
+--FAQ
+Answers typical questions.
+	Why us
+	who are we
+	how much
+	machines used
+	Other cnc methods?
+	
+--IRC freenode channel
+
+--
