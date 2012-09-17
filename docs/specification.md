@@ -36,7 +36,7 @@ Registration for users and machines
 * This equation is hard because plastic is sold at wildly different prices ranging form 30-75 euros, and depending in 'infill' of a 3d printed object any one part can take from a half hour to hours in printing.
 Most people seem to say, 10 per print + 5 per hour, this is currency agnostic and also relatively cheap. Others charge more if they only own one machine, and much more for parts that have a high potential to fail.
 
-
+* Part of stock pile idea, People can use website to sell things they make often, we take percentage cut.
 
 ---USERS---
 -------------------
