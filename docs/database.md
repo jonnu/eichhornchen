@@ -4,6 +4,8 @@ Entities to consider
 * user (abstract, login core)
 * user_customer
 * user_operator
+* organization (hackerspace)
+* user_organization
 * address
 * machine
 * machine_type (e.g. custom, production machine, rostock, i3, i2, mendelmax, blah)
@@ -17,7 +19,7 @@ Entities to consider
 * job
 * job_status
 * MAYBE  - amount earned for community competition?
-         - amount spent into community (internel only?)
+         - amount spent into community (internal only?)
 
 Schema
 ------
