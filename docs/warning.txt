@@ -5,12 +5,6 @@ accurately guess how long a particular print will take to print your part. Becau
 to a user are 'rough' at best, and should be expected to change. 
 	
 
-	Eich recommends: 
-
-		13x per print and 6.50x per hour of print, Reprints cost 4x per hour on top of material fees.
-		Large and or complicated parts with high chance of failure cost 18.50x per print with 6x per hour.
-		Should a reprint be required there is an additional 6x on top of material fees.
-
 
 	It is highly recommended users do as much as possible to ensure their part can be printed successfully.
 		Please see 
@@ -32,20 +26,21 @@ to a user are 'rough' at best, and should be expected to change.
 To Operators ---maybe?---
 
 
-Warning: When calculating costs of prints be aware of Eichhorns recommended prices
+Calculate costs based on your machine and fairness. Remember Users can rate Operators. If you're unsure what to charge
+Eich has recommended prices below.
 
 
 	For Regular Prints	
-		13x per print plus 6.50 per hour*
+		10x per print plus 5.00 per hour*
 	
 		*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
 		*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 
-		 4x per hour on top of material fees.
+		 5x per hour on top of material fees.
 
 
 
 	For Large Prints/High probability of failure prints
-		18.50x per print plus 6x per hour*
+		15.50x per print plus 6x per hour*
 			
 		*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
 		*Incase of print of failure (bad .STL files, impossible geometries, multiple tries to get print settings correct) 
