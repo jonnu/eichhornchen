@@ -16,6 +16,8 @@ Entities to consider
 * object
 * job
 * job_status
+* MAYBE  - amount earned for community competition?
+         - amount spent into community (internel only?)
 
 Schema
 ------
