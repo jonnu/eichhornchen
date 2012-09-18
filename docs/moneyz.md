@@ -2,7 +2,11 @@
 --------
 Memberships
 * Machines pay a monthly fee of 10 euros a month. 
-* Hackerspaces pay a month fee of 150 a month for 20+ printers (25% discount), otherwise revert to normal fee.
+* Users can set up a "hacker space" in profile, other users can join, If the hackerspace has 20+ members, each
+each member gets 25% off their monthly fee.
+
+However, each member has to be within the same location
+(verified by shipping address)
 
 
 
