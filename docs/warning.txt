@@ -34,7 +34,7 @@ Eich has recommended prices below.
 		10x per print plus 5.00 per hour*
 	
 		*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
-		*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 
+		*Incase of print failure (bad .STL files, difficult geometries) We recommend an addtional 
 		 5x per hour on top of material fees.
 
 
@@ -43,7 +43,7 @@ Eich has recommended prices below.
 		15.50x per print plus 6x per hour*
 			
 		*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
-		*Incase of print of failure (bad .STL files, impossible geometries, multiple tries to get print settings correct) 
+		*Incase of print of failure (bad .STL files, difficult geometries, multiple tries to get print settings correct) 
 		 We recommend an additional 6 on top of material fees.
 
 
