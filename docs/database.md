@@ -16,8 +16,27 @@ Entities to consider
 * object
 * job
 * job_status
+* MAYBE  - amount earned for community competition?
+         - amount spent into community (internel only?)
 
 Schema
 ------
 
 TBA
+
+Job Flow
+--------
+
+When the job has an operator & machine, and everything is agreed, the flow should be something along the lines of:
+
+# JOB_CREATED
+# JOB_QUEUED
+# JOB_PRINT_INPROGRESS
+# JOB_PRINT_COMPLETE
+# JOB_SHIPPING_PENDING
+# JOB_SHIPPING_COMPLETE
+# JOB_COMPLETE
+
+Error statuses:
+
+* JOB_FAILED
