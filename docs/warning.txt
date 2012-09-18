@@ -14,15 +14,17 @@ Warning: The prices of your object can change. Due to the nature of how 3d print
 	It is highly recommended users do as much as possible to ensure their part can be printed successfully.
 		Please see 
 
-			http://slic3r.org
+			
 			http://reprap.org/wiki/Main_Page
-			For Sketchup Users
-			http://www.guitar-list.com/download-software/convert-sketchup-skp-files-dxf-or-stl
-			Openscad
-			http://en.wikibooks.org/wiki/OpenSCAD_User_Manual
-			Tinkercad
-			tinkercad.com
-		
+			
+		For Sketchup Users
+			  http://www.guitar-list.com/download-software/convert-sketchup-skp-files-dxf-or-stl
+		Openscad
+			  http://en.wikibooks.org/wiki/OpenSCAD_User_Manual
+		Tinkercad
+			  tinkercad.com
+		Netfabb
+			  http://cloud.netfabb.com/			
 
 
 
@@ -48,5 +50,5 @@ Warning: When calculating costs of prints be aware of Eichhorns recommended pric
 
 
 
-
+**It is highly recommend Operators run .STLs first through netfabb, regardless what the user has told you.
 **It is highly recommended Operators do print a portional print test first to ensure successful prints.
