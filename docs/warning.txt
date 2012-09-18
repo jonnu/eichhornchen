@@ -1,0 +1,52 @@
+To Users ---maybe?---
+
+Warning: The prices of your object can change. Due to the nature of how 3d printers work, it is impossible to accurately guess how long a particular print will take
+	to print your part. Because of this, prices first quoted to a user are 'rough' at best, and should be expected to change. 
+	
+
+	Eich recommends: 
+
+		13x per print and 6.50x per hour of print, Reprints cost 4x per hour on top of material fees.
+		Large and or complicated parts with high chance of failure cost 18.50x per print with 6x per hour.
+		Should a reprint be required there is an additional 6x on top of material fees.
+
+
+	It is highly recommended users do as much as possible to ensure their part can be printed successfully.
+		Please see 
+
+			http://slic3r.org
+			http://reprap.org/wiki/Main_Page
+			For Sketchup Users
+			http://www.guitar-list.com/download-software/convert-sketchup-skp-files-dxf-or-stl
+			Openscad
+			http://en.wikibooks.org/wiki/OpenSCAD_User_Manual
+			Tinkercad
+			tinkercad.com
+		
+
+
+
+To Operators ---maybe?---
+
+
+Warning: When calculating costs of prints be aware of Eichhorns recommended prices
+
+
+	For Regular Prints	
+		13x per print plus 6.50 per hour*
+	
+			*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
+			*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 4x per hour on top of material fees.
+
+
+
+	For Large Prints/High probability of failure prints
+		18.50x per print plus 6x per hour*
+			*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
+			*Incase of print of failure (bad .STL files, impossible geometries, multiple tries to get print settings correct) 
+			 We recommend an additional 6 on top of material fees.
+
+
+
+
+**It is highly recommended Operators do print a portional print test first to ensure successful prints.
