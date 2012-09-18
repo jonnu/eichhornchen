@@ -1,8 +1,10 @@
 --Payment option
 --------
 * Percentage.
-This works by having the user upload the thing they want, an operator will then do whatever they need to get a quote, send this to the user, user accepts, then the operator makes the part, ships it away, finished.
-User pays Us from a generated paypal link and or stripe
+This works by having the user upload the thing they want choose operator, an operator will then do whatever they need to get a quote. 
+  * Quotes are difficult because it's nigh impossible to know how long an object will take to print. 
+  * Maybe an operator simple charges whatever after the print is finished. But gives a recommended price, however user is warned prices may be higher/lower
+  * User pays Us from a generated paypal link and or stripe
 
 * eichhornchen takes in % (maybe 5-8) for fees or 2$ whichever is more.
 
