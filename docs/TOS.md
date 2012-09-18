@@ -1,0 +1,24 @@
+Terms of Service
+===
+Eichhornchen
+* We cannot garuntee Printed products will arrive
+
+Users
+---
+* Sign up is free
+* Users pay for printed products + shipping costs in accordance with agreed cost from Operators
+* Shipping costs vary upon Operators.
+* Eich does not save any credit card information. See PAYPAL TOS. xlinkx
+* All Sales are final. Operators may provide warrentys. However Eich does not offer any warrenty.
+* Eich May contact you from time to time, to ensure your satisfaction or to keep you up to date on your Print. We do not, and will not give out or sell your email.
+
+
+Operators
+---
+* Operators will ship within timely matters.
+* Operators will update Jobs as soon as possible to ensure Eich and the User are up-to-date in the progress of the print(s).
+* Eich may contact you from time to time to ensure Operators are up-to-date with latest news. We do not, and will not give out or sell your email.
+
+
+
+These terms can change any time without notice to Operators or Users.
