@@ -38,19 +38,20 @@ Warning: When calculating costs of prints be aware of Eichhorns recommended pric
 	For Regular Prints	
 		13x per print plus 6.50 per hour*
 	
-			*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
-			*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 
-			4x per hour on top of material fees.
+		*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
+		*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 
+		 4x per hour on top of material fees.
 
 
 
 	For Large Prints/High probability of failure prints
 		18.50x per print plus 6x per hour*
-			*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
-			*Incase of print of failure (bad .STL files, impossible geometries, multiple tries to get print settings correct) 
-			 We recommend an additional 6 on top of material fees.
+			
+		*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
+		*Incase of print of failure (bad .STL files, impossible geometries, multiple tries to get print settings correct) 
+		 We recommend an additional 6 on top of material fees.
 
 
 
 **It is highly recommend Operators run .STLs first through netfabb, regardless what the user has told you.
-**It is highly recommended Operators do print a portional print test first to ensure successful prints.
+**It is highly recommended Operators do print a portional print test first for large/complicated prints.
