@@ -1,7 +1,8 @@
 To Users ---maybe?---
 
-Warning: The prices of your object can change. Due to the nature of how 3d printers work, it is impossible to accurately guess how long a particular print will take
-	to print your part. Because of this, prices first quoted to a user are 'rough' at best, and should be expected to change. 
+Warning: The prices of your object can change. Due to the nature of how 3d printers work, it is impossible to 
+accurately guess how long a particular print will take to print your part. Because of this, prices first quoted
+to a user are 'rough' at best, and should be expected to change. 
 	
 
 	Eich recommends: 
@@ -38,7 +39,8 @@ Warning: When calculating costs of prints be aware of Eichhorns recommended pric
 		13x per print plus 6.50 per hour*
 	
 			*Incase of machine failure (hardware, hotend clogging, etc) No additional costs to user
-			*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 4x per hour on top of material fees.
+			*Incase of print failure (bad .STL files, impossible geometries) We recommend an addtional 
+			4x per hour on top of material fees.
 
 
 
