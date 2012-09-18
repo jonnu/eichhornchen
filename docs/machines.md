@@ -1,4 +1,3 @@
-
 * Can be individuals
 * Can be hackerspaces hackerspaces.org...send emails/mass mails to all hackerspaces
 * Can be business
@@ -24,7 +23,6 @@
 * Queue system should show names of objects in the queue, but only allow in a 'first come first serve' download order. (to make things fair to users, maybe?)
 
 
-* Prices equations recommended to machines...machines then make up quote to user. Machines don't print until user has agreed/paid. --This may be a difficult part, how do we get our cut? machines won't know prices (without expierence) how much a part costs until printed...perhaps recommended prices should be displayed to user, then once printed machines send paypal request)
-
+* 13 per print / 6.50 per hour is recommended rate.
 
 
