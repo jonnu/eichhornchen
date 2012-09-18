@@ -27,15 +27,7 @@ Registration for users and machines
 
 ---Method of making money---
 -----------------
-* Percentages - With a percentage, the website might just turn into a place for people to easily find each other then abandon. However this helps keep less active machines around.
-
-* monthly fees - setting a monthly fee for machines...this'll keep members around (cause they paid) But has a problem of inactivity for some areas. However, active members will enjoy a lowish fee with many users and high profits. <--- active machines would be inclined to own several printers.
-
-* People generally sell their plastic parts on an equation of material cost + print time some 'sets' go for 100$ each.
-
-* This equation is hard because plastic is sold at wildly different prices ranging form 30-75 euros, and depending in 'infill' of a 3d printed object any one part can take from a half hour to hours in printing.
-Most people seem to say, 10 per print + 5 per hour, this is currency agnostic and also relatively cheap. Others charge more if they only own one machine, and much more for parts that have a high potential to fail.
-
+ see moneyz
 
 
 
@@ -65,11 +57,11 @@ Some people are worthless at designing things, this can be a place for people to
 Typical blog for keeping users updated...writing tips and and other stuff. (websites like Ponoko are fairly active at this and . So this doesn't have to be a backbreaker to compete.
 
 * FAQ
-Answers typical questions.
-	Why us
-	who are we
-	how much
-	machines used
-	Other cnc methods?
+	* Answers typical questions.
+	1. Why us
+	2. who are we
+	3. how much
+	4. machines used
+	5. Other cnc methods?
 	
 * IRC freenode channel
